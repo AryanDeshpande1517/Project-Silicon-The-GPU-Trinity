@@ -156,7 +156,7 @@ Project-Silicon-The-GPU-Trinity/
 │   ├── 5.1-NVIDIA-Page.png
 │   ├── 5.2-AMD-Page.png
 │   ├── 5.3-Intel-Page.png
-│   ├── 6-Project-Silicon-The GPU-Trinity-Complete-Walkthrough.pdf
+│   ├── 6-Project-Silicon-The-GPU-Trinity-Complete-Walkthrough.pdf
 │   ├── 7.1-Project-Silicon-The-GPU-Trinity-Banner.png
 │   └── 7.2-Project-Silicon-The-GPU-Trinity-Social-Preview.png
 │
