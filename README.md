@@ -139,13 +139,34 @@ This dashboard supports:
 - Financial-technical correlation studies  
 
 ## 📁 Repository Structure
+- Assets contain Dashboard Visuals, Complete Walkthrough PDF and Repository Banner / Social Media Preview Image.
+- Datasets contain Dataset References (no raw data included)
+- Scripts contain DAX Documentation
+- *Project Silicon - The GPU Trinity.pbix* is the Complete Interactive Power BI Dashboard
+
 ```text
 Project-Silicon-The-GPU-Trinity/
 │
-├── Assets/         # Dashboard Visuals, Complete Walkthrough PDF and Repository Banner / Social Media Preview.
-├── Datasets/       # Dataset References (no raw data included)
-├── Scripts/        # DAX Documentation
+├── Assets/
+│   ├── 1-Home.png
+│   ├── 2-Market-Wars.png
+│   ├── 3-Arms-Race.png
+│   ├── 4-Product-vs-Market-Performance.png
+│   ├── 5.1-NVIDIA-Page.png
+│   ├── 5.2-AMD-Page.png
+│   ├── 5.3-Intel-Page.png
+│   ├── 6-Project-Silicon-The GPU-Trinity-Complete-Walkthrough.pdf
+│   ├── 7.1-Project-Silicon-The GPU-Trinity-Banner.png
+│   └── 7.2-Project-Silicon-The GPU-Trinity-Social-Preview.png
+│
+├── Datasets/
+│   └── Data-Sources.md
+│
+├── Scripts/
+│   └── DAX-Measures.md
+│
 ├── Project Silicon - The GPU Trinity.pbix
+│
 └── README.md
 ```
 
