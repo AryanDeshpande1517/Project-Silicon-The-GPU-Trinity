@@ -37,8 +37,9 @@ The goal is to uncover how **hardware innovation translates into market dominanc
 ### 📈 Product vs Market Performance
 ![Product vs Market Performance](Assets/4-Product-vs-Market-Performance.png)
 
-### 🏢 NVIDIA Page (Same kind of pages exist in the project for AMD and Intel)
+### 🏢 NVIDIA Page
 ![NVIDIA Page](Assets/5.1-NVIDIA-Page.png)
+Same kind of pages exist in the project for AMD as well as Intel.
 
 ## 🎯 Problem Statement
 The GPU industry powers:
