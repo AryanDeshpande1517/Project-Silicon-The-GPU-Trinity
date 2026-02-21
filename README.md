@@ -142,13 +142,13 @@ This dashboard supports:
 ```text
 Project-Silicon-The-GPU-Trinity/
 │
-├── Assets/         # Banner, dashboard visuals, and a complete walkthrough PDF 
-├── Datasets/       # Dataset references (no raw data included)
-├── Scripts/        # DAX documentation
+├── Assets/         # Dashboard Visuals, Complete Walkthrough PDF and Repository Banner / Social Media Preview.
+├── Datasets/       # Dataset References (no raw data included)
+├── Scripts/        # DAX Documentation
 ├── Project Silicon - The GPU Trinity.pbix
 └── README.md
 ```
 
 ## 👤 Author
 **Aryan Deshpande**  
-Aspiring Data Analyst
+> Aspiring Data Analyst
