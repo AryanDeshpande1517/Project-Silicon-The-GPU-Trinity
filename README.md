@@ -141,9 +141,9 @@ This dashboard supports:
 
 ## 📁 Repository Structure
 - Assets contain Dashboard Visuals, Complete Walkthrough PDF and Repository Banner / Social Media Preview Image.
-- Datasets contain Dataset References (no raw data included)
-- Scripts contain DAX Documentation
-- *Project Silicon - The GPU Trinity.pbix* is the Complete Interactive Power BI Dashboard
+- Datasets contain Dataset References (no raw data included).
+- Scripts contain DAX Documentation.
+- *Project Silicon: The GPU Trinity.pbix* is the Complete Interactive Power BI Dashboard.
 
 ```text
 Project-Silicon-The-GPU-Trinity/
