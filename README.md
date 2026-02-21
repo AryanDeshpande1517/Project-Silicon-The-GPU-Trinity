@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Assets/7.1-Project-Silicon-The GPU-Trinity-Banner.png" width="100%" />
+  <img src="Assets/7.1-Project-Silicon-The-GPU-Trinity-Banner.png" width="100%" />
 </p>
 
 # 🚀 Project Silicon: The GPU Trinity
