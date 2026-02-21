@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Assets/7.1-Project-Silicon-The GPU-Trinity-Banner.png" width="100%" />
+</p>
+
 # 🚀 Project Silicon: The GPU Trinity
 ### Global GPU Intelligence Dashboard (Power BI)
 
@@ -18,6 +22,23 @@ The project integrates:
 - Innovation vs. valuation correlation  
 
 The goal is to uncover how **hardware innovation translates into market dominance and financial acceleration** in the AI era.
+
+## 📷 Dashboard Preview
+
+### 🏠 Home
+![Home](Assets/1-Home.png)
+
+### ⚔️ Market Wars
+![Market Wars](Assets/2-Market-Wars.png)
+
+### 🧠 Arms Race
+![Arms Race](Assets/3-Arms-Race.png)
+
+### 📈 Product vs Market Performance
+![Product vs Market Performance](Assets/4-Product-vs-Market-Performance.png)
+
+### 🏢 NVIDIA Page (Same kind of pages exist in the project for AMD and Intel)
+![NVIDIA Page](Assets/5.1-NVIDIA-Page.png)
 
 ## 🎯 Problem Statement
 The GPU industry powers:
