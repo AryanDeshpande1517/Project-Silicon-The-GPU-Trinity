@@ -5,166 +5,128 @@
 > A strategic comparative analytics project on NVIDIA, AMD, and Intel.
 
 ## 📌 Project Overview
-**Project Silicon** is an advanced Power BI analytics dashboard that analyzes the competitive dynamics between the three dominant GPU manufacturers:
+**Project Silicon** is an advanced Power BI dashboard analyzing the competitive dynamics between the three dominant GPU manufacturers:
 - 🟢 NVIDIA  
 - 🔴 AMD  
 - 🔵 Intel  
 
-The project combines:
+The project integrates:
 - Historical stock performance  
 - GPU architecture evolution  
-- VRAM and shader core progression  
+- VRAM and shader progression  
 - AI hardware growth trends  
-- Market share shifts  
-- Innovation vs. valuation correlation
-  
-The objective is to uncover **how hardware innovation translates into market dominance and financial growth** in the AI era.
+- Innovation vs. valuation correlation  
+
+The goal is to uncover how **hardware innovation translates into market dominance and financial acceleration** in the AI era.
 
 ## 🎯 Problem Statement
-The GPU industry has become the backbone of:
+The GPU industry powers:
 - Artificial Intelligence  
 - High-Performance Computing  
 - Gaming  
 - Cloud Infrastructure  
 
-But key questions remain:
-- Does innovation directly correlate with stock performance?
-- Which company truly leads the AI hardware arms race?
-- How does product launch timing impact valuation?
-- Is market share aligned with technological advancement?
+This project answers:
+- Does innovation correlate with stock performance?
+- Who leads the GPU arms race?
+- How do product cycles impact valuation?
+- Is AI demand reshaping financial dominance?
 
-This dashboard answers those questions using structured data modeling and interactive analytics.
+The dashboard uses structured data modeling and interactive analytics to deliver strategic insights.
 
 ## 📊 Dashboard Structure
-The Power BI report contains four major analytical sections:
 
-### 🏠 1. Home – Global GPU Intelligence
-A high-level executive summary view introducing:
-- Industry positioning
-- Market cap comparison
-- Brand presence
-- AI growth context
+### 🏠 Home – Industry Overview  
+Executive summary of market positioning and competitive landscape.
 
-### ⚔️ 2. The Market Wars
-This section focuses on competitive financial performance.
+### ⚔️ Market Wars  
+- Stock price evolution  
+- Growth multipliers  
+- Volatility comparison  
+- Market performance trends  
 
-**Key Insights:**
-- Trading heat comparison
-- Stock price evolution (multi-decade trend)
-- Market volatility index
-- Growth multipliers
-- Battle for dominance (year-wise comparison)
+### 🧠 The Arms Race  
+- VRAM growth trends  
+- Shader/core evolution  
+- Clock speed progression  
+- Product advancement timeline  
 
-Visuals include:
-- Line charts (Share price over time)
-- Clustered bars (Growth comparison)
-- KPI Cards (Stock volatility, total products, growth %)
+### 📈 Innovation vs Market Performance  
+- Correlation (Price vs VRAM)  
+- Growth comparison  
+- Product impact on stock movement  
 
-### 🧠 3. The Arms Race
-This section analyzes hardware evolution.
+### 🏢 Company Deep Dives  
+Dedicated strategic analysis for:
+- NVIDIA  
+- AMD  
+- Intel  
 
-**Metrics Covered:**
-- VRAM growth wars
-- CUDA / Radeon / Shader core evolution
-- Memory architecture shifts
-- Clock speeds and bandwidth progression
-- Market saturation by segment
-- Speed performance comparisons
-
-Includes:
-- Scatter plots
-- Evolution timelines
-- Stacked memory shift analysis
-- Product comparison tables
-- Performance trend charts
-
-This section highlights how AI workloads reshaped GPU architecture.
-
-### 📈 4. Product vs Market Performance
-This section studies correlation between innovation and financial growth.
-
-**Key Components:**
-- Innovation vs valuation scatter plot
-- Price-to-innovation correlation coefficient
-- Market share by segment (stacked 100% bars)
-- Launch impact vs stock movement
-
-Strategic Insight:
-> High innovation concentration strongly correlates with stock acceleration during AI expansion cycles.
-
-### 🏢 5. Company-Specific Deep Dives
-Each company has its own strategic dashboard page:
-
-#### 🟢 NVIDIA – "The Way It's Meant To Be Played™"
-- AI Capacity Moat
-- CUDA Core Evolution
-- GeForce RTX 5090 spotlight
-- Growth multiplier analysis
-- Market heat vs hardware power
-
-#### 🔴 AMD – "Together We Advance™"
-- VRAM Capacity Moat
-- Radeon Cores Evolution
-- Radeon Instinct flagship
-- Competitive positioning
-- Market heat comparison
-
-#### 🔵 Intel – "The Power of Intel Inside™"
-- Memory Architecture Standards
-- Shader Core evolution
-- Arc B780 benchmark positioning
-- Growth multipliers
-- Architectural war comparison
-  
-## 🛠 Tools & Technologies Used
+## 🛠 Tools & Technologies
 - Power BI Desktop  
-- Power Query (ETL & Data Cleaning)  
-- DAX (Calculated Measures & KPIs)  
-- Data Modeling (Star Schema)  
-- Financial & Hardware Dataset Engineering  
-- Advanced Visual Formatting 
+- Power Query (ETL)  
+- DAX (Advanced Measures & Statistical Modeling)  
+- Star Schema Data Modeling  
+- Financial & Technical Dataset Integration  
 
 ## 🧩 Data Modeling Approach
 
-**Fact Tables:**
+**Fact Tables**
 - Stock Performance  
 - Product Specifications  
 - Launch Timeline  
-- Market Share Data  
+- Market Share  
 
-**Dimension Tables:**
+**Dimension Tables**
 - Company  
-- Year  
+- Calendar  
 - Product Category  
 - GPU Architecture  
 
-Relationships were optimized for:
+Model optimized for:
 - Cross-filtering  
-- Drill-down interactivity  
+- Drill-down analytics  
 - Dynamic company comparison  
 
-## 📈 Key Insights Discovered
-1. NVIDIA shows exponential AI-driven acceleration post-2016.  
-2. AMD demonstrates aggressive VRAM and cost-performance scaling.  
-3. Intel is structurally rebuilding through Arc architecture.  
-4. Innovation-to-stock correlation is significantly positive.  
-5. AI workload demand fundamentally reshaped GPU evolution.  
-6. Product launch waves directly impact short-term stock volatility.  
+## 📂 Data Sources
+
+### 🖥 GPU Specifications  
+Graphics Card Full Specs Dataset  
+Source: Kaggle  
+https://www.kaggle.com/datasets/alanjo/graphics-card-full-specs  
+
+### 📈 Stock Market Data  
+NVIDIA, AMD, Intel Share Prices Dataset  
+Source: Kaggle  
+https://www.kaggle.com/datasets/kapturovalexander/nvidia-amd-intel-asus-msi-share-prices  
+
+> ⚠️ Raw datasets are not redistributed in this repository due to Kaggle licensing restrictions.  
+> Please download directly from the official dataset links above.
+
+## 📈 Key Insights
+- NVIDIA shows strong AI-driven acceleration post-2016.  
+- AMD demonstrates aggressive VRAM scaling and competitive positioning.  
+- Intel is rebuilding GPU presence through Arc architecture.  
+- Innovation intensity shows a strong positive correlation with stock growth.  
+- AI demand cycles significantly influence financial volatility.  
 
 ## 💡 Business Value
-This dashboard can help:
-- Investors evaluate AI hardware exposure  
-- Tech analysts compare architectural strategies  
-- Product managers study innovation cycles  
-- Market researchers analyze competitive dominance  
-- Students understand financial + technical analytics integration  
+This dashboard supports:
+- Investment evaluation in AI hardware markets  
+- Competitive benchmarking of GPU manufacturers  
+- Product strategy analysis  
+- Financial-technical correlation studies  
 
-## 🚀 Future Enhancements
-- Real-time stock API integration  
-- AI demand forecasting model  
-- Cloud GPU revenue segmentation  
-- Semiconductor supply chain analytics  
-- Predictive trend modeling using Python + Power BI  
+## 📁 Repository Structure
+```text
+Project-Silicon-The-GPU-Trinity/
+│
+├── Assets/         # Banner, dashboard visuals, and a complete walkthrough PDF 
+├── Datasets/       # Dataset references (no raw data included)
+├── Scripts/        # DAX documentation
+├── Project Silicon - The GPU Trinity.pbix
+└── README.md
+```
 
 ## 👤 Author
 **Aryan Deshpande**  
